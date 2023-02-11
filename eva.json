@@ -1,0 +1,24 @@
+{
+    "name": "BNB Smart Chain",
+    "website": "https://www.evapro.org/",
+    "description": "EVA Pro Coin has a substantial Ecosystem around which includes Metaverse Launchpad, Swap Exchange, Payment Gateway, Utilities, Metaverse Ecosystem, NFT Marketplace, Gamefi, Exchange, and many other components to make the EVA Pro Coin Network more efficient. So, EVA Pro Coin is the most important part of the EVA Pro Coin ecosystem.",
+    "explorer": "https://www.bscscan.com/token/0x9f858342a27b16cf25c7f649ea2074487cd38885#code",
+    "symbol": "EVA",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        
+      {
+            "name": "logo",
+            "url": "https://ibb.co/n1BfwTC"
+        }
+        {
+            "name": "whitepaper",
+            "url": "https://www.evapro.org/Content/home/EVAPROwhitepapper.pdf"
+        }
+    ]
+}
